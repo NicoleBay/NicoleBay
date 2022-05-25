@@ -1,8 +1,8 @@
-### Hi there 👋👩‍💻
+# Hi there 👋👩‍💻
 
-#### I'm Nicole from the United Kingdom, I enjoy creating content that's clean and simple. 
+## I'm Nicole from the United Kingdom, I enjoy creating content that's clean and simple. 
 
-Skills: HTML / CSS / Bootstrap/ JS
+### Skills: 💻 HTML / CSS / Bootstrap/ JS
 
 - 🌱 I’m currently learning Front-end Development 
 
