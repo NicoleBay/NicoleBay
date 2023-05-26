@@ -3,7 +3,7 @@
 ## I'm Nicole from the United Kingdom, I enjoy creating content that's clean and simple. 
 
 ### Skills and Experience:
-* 💻 HTML / CSS / Bootstrap/ JS
+* 💻 HTML / CSS / Bootstrap/ JavaScript
 
 * 🌱 I’m currently learning Front-end Development 
 
