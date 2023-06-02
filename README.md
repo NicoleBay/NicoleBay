@@ -44,12 +44,13 @@ Don't forget to check out some of my popular repositories:
 This weather app provides a six-day
             forecast based on location. It supports both light and dark themes, and includes
             features like current location functionality and location search.
+            <br>
             <strong>Built with: HTML, CSS, Bootstrap, JavaScript, OpenWeather API. Uses: Netlify, Git, GitHub.</strong>
             
             
 - Responsive Portfolio:
-This portfolio is fully responsive, and there are a few JavaScript surprises on one of the pages < /meow>.
-<strong>Built with HTML, Bootstrap, CSS, JavaScript. Uses: Netlify, Git, GitHub</strong>
+This portfolio is fully responsive, and there are a few JavaScript surprises on one of the pages < /meow>. 
+<br> <strong>Built with HTML, Bootstrap, CSS, JavaScript. Uses: Netlify, Git, GitHub</strong>
 
 ---
 
