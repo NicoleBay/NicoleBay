@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Nicole, a passionate front-end developer stude
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  What I'm currently working on
 
-I'm currently working on completing the full SheCodes curriculumn. I have recently finished the responsive course, where I developed my own portfolio with a few surprises on one of the pages. 
+I'm currently working on completing the full SheCodes curriculum. I have recently finished the responsive course, where I developed my own portfolio with a few surprises on one of the pages. 
 
 Next, I will be learning React with SheCodes Pro. 
 
