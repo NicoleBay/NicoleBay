@@ -1,4 +1,4 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hi, I'm Nicole <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 Welcome to my GitHub profile! I'm Nicole, a passionate front-end developer student from the United Kingdom. I love building clean and simple content, and I'm constantly exploring new technologies to expand my skillset.
 
@@ -8,9 +8,7 @@ Welcome to my GitHub profile! I'm Nicole, a passionate front-end developer stude
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  What I'm currently working on
 
-I'm currently working on completing the full SheCodes curriculum. I have recently finished the responsive course, where I developed my own portfolio with a few surprises on one of the pages. 
-
-Next, I will be learning React with SheCodes Pro. 
+I've finished SheCodes Basic, Plus, Responsive, and recently the Pro course.
 
 ---
 
@@ -24,6 +22,7 @@ Next, I will be learning React with SheCodes Pro.
    <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/084/112/original/api.png?1685699407" title="API" **alt="API" width="40" height="40"/>
   <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/084/143/original/git.png?1685713840" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/084/118/original/hosting.png?1685700590" title="Hosting" **alt="Hosting" width="40" height="40"/>
+   <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/102/091/original/react.png?1698418317" title="React" **alt="React" width="40" height="40"/>
 </div>
 
 ---
@@ -33,17 +32,23 @@ Next, I will be learning React with SheCodes Pro.
 <a href="https://www.linkedin.com/in/nicole-baylis/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    
+    <br>
+    <br>
+You can also contact me by email on <a href="mailto:dev.nicolecodes@outlook.com" title="Email">dev.nicolecodes@outlook.com</a>
+
+<br>
 ---
 
 ### :eyes: Check out my repositories
 
 Don't forget to check out some of my popular repositories:
 
-- Weather app:
-This weather app provides a six-day
-            forecast based on location. It supports both light and dark themes, and includes
-            features like current location functionality and location search.
+- React Weather App:
+React weather app provides a fix day forecast. Search any location and change between from celcius to farenheit. Light and dark them included.
+<br><strong> Built with: HTML, CSS, Bootstrap, JavaScript, React, SheCodes Weather API, Netlify, Git, GitHub.</strong>
+
+- Weather App:
+This weather app provides a six-day forecast based on location. It supports both light and dark themes, and includes features like current location functionality and location search.
             <br>
             <strong>Built with: HTML, CSS, Bootstrap, JavaScript, OpenWeather API. Uses: Netlify, Git, GitHub.</strong>
             
